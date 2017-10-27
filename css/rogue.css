@@ -1,0 +1,161 @@
+
+
+body {
+	margin-left: 20px;
+	margin-right:20px;
+}
+
+
+
+/****** HEADER SECTION ******/
+
+.header-title {
+	font-family: 'Montserrat', sans-serif;
+	font-size:30px;
+	text-transform: uppercase;
+	float:left;
+}
+
+nav {
+	float:right;
+	padding-top: 20px;
+}
+
+nav ul li {
+	display:inline-block;
+}
+
+nav ul li a {
+  color:#77a466;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 0px 15px 0px 15px;
+}
+
+/****** MAIN SECTION ******/
+
+/****** TOP SECTION ******/
+
+img {
+	border-top:2px solid #77a466;
+	border-bottom: 2px solid #77a466;
+}
+
+.main-header {
+	color:#77a466;
+	font-family:'Montserrat', sans-serif;
+	font-size:18px;
+	text-transform: uppercase;
+}
+
+.main-script {
+	font-family: 'Montserrat', sans-serif;
+	font-size:16px;
+	line-height: 25px;
+
+}
+
+/****** BOTTOM SECTION ******/
+
+.bottom-section {
+	width:1200px;
+	padding-bottom: 20%;
+}
+
+.section-one {
+	width:400px;
+	border-top:1px solid #dedbdc;
+	border-bottom: 1px solid #dedbdc;
+	float:left;
+	margin-top: 20px;
+	padding-bottom: 10px;
+}
+
+.header-width {
+   font-family: 'Montserrat', sans-serif;
+   font-size:12px;
+   text-transform: uppercase;
+   margin-left: 40px;
+  }
+
+ul {
+   color:#77a466;
+   font-family: 'Montserrat', sans-serif;
+   list-style:none;
+   line-height: 40px;
+}
+
+
+
+.section-two {
+	width:400px;
+	border:1px solid #dedbdc;
+	margin-top:20px;
+	float:left;
+	padding-bottom: 10px;
+}
+
+.section-script {
+   font-family:'Montserrat', sans-serif;
+   font-size:16px;
+   line-height: 20px;
+   margin-left:40px;
+   margin-right:20px;
+  }
+
+
+.section-three {
+	width: 390px;
+	border-top:1px solid #dedbdc;
+	border-bottom: 1px solid #dedbdc;
+	margin-top:20px;
+	float:left;
+}
+
+.contact-script {
+   font-family:'Montserrat', sans-serif;
+   font-size:16px;
+   margin-left: 40px;
+   line-height: 25px;
+   padding-bottom: 55px;
+  }
+
+  .footer-script {
+  	font-family:'Montserrat', sans-serif;
+  	font-size:16px;
+  	text-align:center;
+  	text-transform: uppercase;
+  }
+
+ .span-script {
+ 	color:#77a466;
+ 	font-family: 'Great Vibes', cursive;
+ 	font-size:24px;
+ 	text-transform: lowercase;
+ }
+
+
+
+
+
+	
+
+
+
+  
+ 
+  	
+
+
+
+
+
+
+
+ 
+	
+	
+	
+	
